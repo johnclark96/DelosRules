@@ -1,0 +1,7 @@
+name: DelosRules
+version: '${version}'
+main: com.github.johnclark96.delosrules.DelosRules
+api-version: 1.16
+author: [John Clark]
+description: A plugin that allows you to create rules for your server.
+
